@@ -3,6 +3,8 @@
 --->
 
 # Windows 10 IoT Core Samples
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuis-amigowifi%2FWindows-iotcore-samples.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLuis-amigowifi%2FWindows-iotcore-samples?ref=badge_shield)
+
 
 This repo contains the samples that demonstrate the usage patterns for Microsoft's Windows 10 IoT Core. These code samples were created with templates available in Visual Studio, and are designed, but not limited to, run on devices that run Windows 10 IoT Core.
 
@@ -167,3 +169,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
    <td><a href="Samples/VirtualMicrophoneArrayDriver">Virtual Microphone Array Driver</a></td>
  </tr>
 </table>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLuis-amigowifi%2FWindows-iotcore-samples.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLuis-amigowifi%2FWindows-iotcore-samples?ref=badge_large)
